@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<workflow>
+  <name>Localhost</name>
+  <version>1.0</version>
+  <bundle>com.kwtucker.localhost</bundle>
+  <updated>1470273320</updated>
+  <file>local_host.alfredworkflow</file>
+</workflow>
